@@ -1,0 +1,10 @@
+C:\products-sales\products-sales\src\main\java\com\example\products\App.java
+C:\products-sales\products-sales\src\main\java\com\example\products\data\db\Database.java
+C:\products-sales\products-sales\src\main\java\com\example\products\domain\dto\CountryProfitDto.java
+C:\products-sales\products-sales\src\main\java\com\example\products\domain\dto\CountryRegionProfitDto.java
+C:\products-sales\products-sales\src\main\java\com\example\products\domain\dto\RegionUnitsDto.java
+C:\products-sales\products-sales\src\main\java\com\example\products\repository\SalesRepository.java
+C:\products-sales\products-sales\src\main\java\com\example\products\service\AnalyticsService.java
+C:\products-sales\products-sales\src\main\java\com\example\products\service\ChartService.java
+C:\products-sales\products-sales\src\main\java\com\example\products\service\CsvImportService.java
+C:\products-sales\products-sales\src\main\java\com\example\products\util\DateParser.java
